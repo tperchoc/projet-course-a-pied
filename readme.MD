@@ -342,7 +342,6 @@
 2. **Préparation de la Course**
    - Échauffement léger de 20 minutes en endurance fondamentale, la veille de la course.
    - Quelques accélérations courtes (10-15 secondes) pour préparer les muscles.
-   - Reposez-vous bien et hydratez-vous.
 
 
 
@@ -386,6 +385,5 @@
 - **Course de 10 km**
   - Échauffement de 20 minutes en endurance fondamentale.
   - Quelques étirements légers et accélérations.
-  - Participez à la course en essayant de maintenir une allure constante adaptée à votre capacité.
   - Après la course, 10 minutes de retour au calme en endurance fondamentale et étirements.
 
